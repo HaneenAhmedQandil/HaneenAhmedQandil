@@ -31,7 +31,20 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif" width = 250px></picture>
+
+
+- 🌱 I’m currently learning *advanced machine learning techniques and exploring new AI technologies.*
+
+- 📝 I regularly update my projects and experiments here on GitHub.
+
+- :computer: I am a competitive programmer at `Codeforces`, `VJudge`.
+
+- 💬 Ask me about *Python, Machine Learning, Data Science, AI, and Software Development.*
+
+- 📫 Feel free to reach me at *[haneen.ahmed.qandil@gmail.com]*
 <!--Intro start-->
 - 🔭 I’m currently working on *Data Science, AI, and Software Development projects.*
 

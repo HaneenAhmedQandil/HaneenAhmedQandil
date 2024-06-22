@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate about AI and Data Science</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate about AI, Data Science, and Problem Solving</h2></summary>
   </ul>
 </div>
 
@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning *advanced machine learning techniques and exploring new AI technologies.*
 
 - 📝 I regularly update my projects and experiments here on GitHub.
+
+- :computer: I am a competitive programmer at `Codeforces`, `VJudge`.
 
 - 💬 Ask me about *Python, Machine Learning, Data Science, AI, and Software Development.*
 
@@ -63,6 +65,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,angular,react,github,html,css,vscode,unity&perline=14" />  </a>
 </p>
 
+
+## My Competitive Programming Profiles
+<p align="center">
+  <a href="https://codeforces.com/profile/haneen220456"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces"/></a>
+	<a href="https://vjudge.net/user/haneen220456"><img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="VJ"/></a>
+	
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

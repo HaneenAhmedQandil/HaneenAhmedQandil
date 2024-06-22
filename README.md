@@ -4,17 +4,14 @@
 HaneenAhmedQandil/HaneenAhmedQandil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<h1 align="center">Hi, I'm Haneen Ahmed Qandil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+and+Data+Science+Enthusiast;AI+Student+at+BUE;Passionate+about+AI+Data+Science;and+Problem+Solving;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm [Haneen Ahmed Qandil]</h1></summary>
-  </ul>
-</div>
 
 
 <!--- snake -->

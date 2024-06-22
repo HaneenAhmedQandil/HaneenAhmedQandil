@@ -42,25 +42,9 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about *Python, Machine Learning, Data Science, AI, and Software Development.*
 
 - 📫 Feel free to reach me at *[haneen.ahmed.qandil@gmail.com]*
-<!--Intro start-->
-- 🔭 I’m currently working on *Data Science, AI, and Software Development projects.*
-
-- 🌱 I’m currently learning *advanced machine learning techniques and exploring new AI technologies.*
-
-- 📝 I regularly update my projects and experiments here on GitHub.
-
-- :computer: I am a competitive programmer at `Codeforces`, `VJudge`.
-
-- 💬 Ask me about *Python, Machine Learning, Data Science, AI, and Software Development.*
-
-- 📫 Feel free to reach me at *[haneen.ahmed.qandil@gmail.com]*
 
 - 🏠 Don't hesitate to drop me a *👋* on LinkedIn – [Haneen Ahmed Qandil's LinkedIn Profile](https://www.linkedin.com/in/haneen-ahmed-qandil-97a415232/)
 <!--Intro end-->
-
-
-
-
 
 
 <!--h1 without bottom border-->
